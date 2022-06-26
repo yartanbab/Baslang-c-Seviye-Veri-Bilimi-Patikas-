@@ -1,9 +1,9 @@
 1) [22,27,16,2,18,6] -> Insertion Sort
-1. adım [2,27,16,22,18,6]
-2. adım [2,6,16,22,18,27]
-3. adım [2,6,16,18,22,27]
+[22,27,16,2,18,6] 1
+1. adım [2,27,16,22,18,6] n
+2. adım [2,6,16,22,18,27] n-1
+3. adım [2,6,16,18,22,27] 1
 
-2) 2^x=6
-x=2 ie 3 arası O(log3)
+2) O(n2)
 
 4) Aradığımız sayı ortada kalıyor avarage case kapsamına girer.
